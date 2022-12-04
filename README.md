@@ -4,4 +4,4 @@ Este projeto foi criado utilizando React
 
 ### `Link para projeto em funcionamento`
 
-[running tests](https://facebook.github.io/create-react-app/docs/running-tests) 
+[Minha calculadora React](https://calculadora-react-camilapdsilva.vercel.app/) 
